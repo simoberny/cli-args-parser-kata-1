@@ -77,4 +77,7 @@ within the same function or a new function one of your choice.
 
 **CODE SUBMISSION:** Add the code to your own Github account and send us the link.
 
+## SUBMISSION
+- [simoberny solution](https://github.com/simoberny/cli-args-parser-kata)
+
 Credits to [Ivo Putzer](https://github.com/ivoputzer) for the original idea.
